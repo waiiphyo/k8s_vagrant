@@ -1,7 +1,6 @@
 ## Prerequisites
 **You need to install vagrant in your machine**
-```
-bash
+```bash
 sudo apt install vagrant
 ```
 **Install Vagrant plugin for kvm**
